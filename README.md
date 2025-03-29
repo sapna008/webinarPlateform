@@ -7,7 +7,7 @@ A React-based webinar platform featuring a details page and search functionality
 - **Search & Filter**: Easily find webinars using keyword search and filters.
 
 ## Deployment
-[Live Demo](https://brilliant-toffee-af6080.netlify.app/)
+[Live Demo](https://spontaneous-shortbread-b35096.netlify.app/)
 
 ## Tech Stack
 - React
